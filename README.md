@@ -1,7 +1,3 @@
-Here's the revised README with the additional information:
-
----
-
 ## CoinMarketCap Scraper
 
 ### Introduction
